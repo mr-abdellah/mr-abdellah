@@ -1,5 +1,5 @@
 ### Hi there, I'm Abdullah!👋
-- 🌱 I’m currently learning Javascript and API
+- 🌱 I’m currently learning REACT
 - 👯 I’m looking to collaborate on Javascript Projects
 - 💬 Ask me about Html/Css/JavaScript or any tech related stuff
 - 😄 Pronouns: He/Him

@@ -7,11 +7,14 @@ Full stack web developer
 I started coding in January 2022, I'm a junior front-end web developer who loves building front-end applications & learning new technologies, I love helping others how to code . When I'm not coding, I'll be playing video games or reading some historical books
 
 *   🌍  I'm based in Algiers
-*   🖥️  See my portfolio at [here](http://ss)
+*   🖥️  See my portfolio [here](https://mr-abdellah.vercel.app/)
 *   ✉️  You can contact me at [belkaid.abdulah@gmail.com](mailto:belkaid.abdulah@gmail.com)
-*   🚀  I'm currently working on [her](http://dd)
+*   🚀  I'm currently working on [KHOTWA TECH]()
 *   🧠  I'm learning Ruby
-*   🤝  I'm open to collaborating on Front-end projects### Skills 
+*   🤝  I'm open to collaborating on Front-end projects
+
+SKILLS
+------------------------
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>

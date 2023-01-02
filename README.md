@@ -9,7 +9,7 @@ I started coding in January 2022, I'm a junior front-end web developer who loves
 *   🌍  I'm based in Algiers
 *   🖥️  See my portfolio [here](https://mr-abdellah.vercel.app/)
 *   ✉️  You can contact me at [belkaid.abdulah@gmail.com](mailto:belkaid.abdulah@gmail.com)
-*   🚀  I'm currently working on [KHOTWA TECH]()
+*   🚀  I'm currently working on []()
 *   🧠  I'm learning Ruby
 *   🤝  I'm open to collaborating on Front-end projects
 

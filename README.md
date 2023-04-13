@@ -1,10 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdellah Belkaid
-========================================================================================================================================
+## 🚀 Hi My name is Abdellah Belkaid
 
-Full stack web developer
-------------------------
-
-I started coding in January 2022, I'm a junior front-end web developer who loves building front-end applications & learning new technologies, I love helping others how to code . When I'm not coding, I'll be playing video games or reading some historical books
+I'm a full stack developer, Passionate and skilled JavaScript developer, specializing in React.js and React Native. With experience in creating responsive and user-friendly web and mobile applications, I am dedicated to delivering high-quality code and exceptional user experiences. Constantly learning and striving for excellence in my craft, I am excited about exploring new technologies and collaborating on innovative projects.
 
 *   🌍  I'm based in Algiers
 *   🖥️  See my portfolio [here](https://mr-abdellah.vercel.app/)
@@ -13,7 +9,7 @@ I started coding in January 2022, I'm a junior front-end web developer who loves
 *   🧠  I'm learning Ruby
 *   🤝  I'm open to collaborating on Front-end projects
 
-SKILLS
+## SKILLS
 ------------------------
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -32,7 +28,7 @@ SKILLS
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p>
                     
-SOCIALS
+## SOCIALS
 ------------------------
 
 <p align="left">
@@ -42,7 +38,7 @@ SOCIALS
 <a href="https://www.twitter.com/belkaiduus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
-<b>MY GITHUB STATS</b>
+## <b>MY GITHUB STATS</b>
 ------------------------
 <a href="http://www.github.com/mr-abdellah"><img src="https://github-readme-stats.vercel.app/api?username=mr-abdellah&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mr-abdellah's GitHub stats" /></a>
 <a href="http://www.github.com/mr-abdellah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-abdellah&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>

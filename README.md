@@ -3,11 +3,11 @@
 I'm a full stack developer, Passionate and skilled JavaScript developer, specializing in React.js and React Native. With experience in creating responsive and user-friendly web and mobile applications, I am dedicated to delivering high-quality code and exceptional user experiences. Constantly learning and striving for excellence in my craft, I am excited about exploring new technologies and collaborating on innovative projects.
 
 *   🌍  I'm based in Algiers
-*   🖥️  See my portfolio [here](https://mr-abdellah.vercel.app/)
-*   ✉️  You can contact me at [belkaid.abdulah@gmail.com](mailto:belkaid.abdulah@gmail.com)
-*   🚀  I'm currently working on []()
-*   🧠  I'm learning Ruby
-*   🤝  I'm open to collaborating on Front-end projects
+*   🖥️  See my portfolio [here](https://mr-abdellah.com/)
+*   ✉️  You can contact me at [admin@mr-abdellah.com](mailto:admin@mr-abdellah.com)
+*   🚀  I'm currently working as a freelancer
+*   🧠  I'm learning Nodejs
+*   🤝  I'm open to collaborating on Full Stack projects (Web or Mobile)
 
 ## SKILLS
 ------------------------

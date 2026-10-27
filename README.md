@@ -1,87 +1,44 @@
-```
-        ┌──────────────────────────────────┐
-        │          BELKAID ABDELLAH        │
-        │     product designer · builder   │
-        │             Algiers, DZ          │
-        ├──────────────────────────────────┤
-        │  TERMINAL ........... GITHUB     │
-        │  OP ................. HELLO      │
-        │                                  │
-        │  messy workflow       ×1         │
-        │  understand it        ✓          │
-        │  break it down        ✓          │
-        │  ship something                  │
-        │  people can use       ✓          │
-        │ ──────────────────────────────── │
-        │  TOTAL            1 good product │
-        │                                  │
-        │  STATUS ........... ACCEPTED     │
-        │  open for new projects           │
-        │                                  │
-        │     ║▌║█║▌│║▌║▌█║║▌║█║▌║▌║       │
-        │   keep this receipt for later    │
-        └──────────────────────────────────┘
-```
+<div align="center">
+
+# Belkaid Abdellah
+
+**Product designer & full-stack builder · Algiers**
 
 I turn complicated business workflows into products people can actually use.
 
-Mostly fintech, SaaS and business software — the kind with five roles, twenty rules and
-one process that depends on three others. I figure out how the business really runs,
-cut the complexity down, then design and build the thing until it feels obvious.
+[Portfolio](https://abdellahbelkaid.com) · [Email](mailto:hello@abdellahbelkaid.com) · [LinkedIn](https://www.linkedin.com/in/belkaidus) · [X](https://www.twitter.com/belkaiduus) · [Instagram](http://www.instagram.com/abdou.coding)
+
+</div>
 
 <br>
 
-### 01 — what I'm on
+## About
 
-**[mytpe.app](https://mytpe.app)** — payments for Algerian merchants. QR code, links, terminals, wallet.
-Web, mobile, back office, bank panel. I design it and I write it.
+I work on fintech, SaaS and business products, the ones with many roles, strict rules and processes that depend on each other. I learn how the business runs, simplify it, then design and build an interface that feels obvious to the people using it every day.
 
-<br>
-
-### 02 — the parcours
-
-| | |
-|---|---|
-| 🥇 **Gold, 1st place** | Innovation & Startups Competition — Islamic Development Bank Group, June 2025 · Financial Solutions & Cybersecurity |
-| 🎤 **IsDB Private Sector Forum** | Algiers, 2025 — presented mytpe.app to the IsDB Group |
-| ✈️ **Web Summit Qatar** | Doha — showing what we build outside Algeria |
-
-Also shipped work for **BDL · Khotwa · Wessini · Djoozoo · Cima · Afes** — banking, education, services.
+Currently building **[MyTPE](https://mytpe.app)**, a payment platform for Algerian merchants: QR payments, payment links, wallet, merchant app and bank back office.
 
 <br>
 
-### 03 — what I build with
+## Stack
 
-```
-web      next.js · react · typescript · tailwind · shadcn/ui
-mobile   react native · expo · flutter
-back     laravel · filament · mysql/mariadb
-ops      docker · github actions · a VPS I know too well
-design   figma, then the browser
-```
-
-Not a menu. Just what ends up in the repos.
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,laravel,php,flutter,mysql,docker,figma&perline=10" alt="Stack" />
+</p>
 
 <br>
 
-### 04 — how I work
+## Highlights
 
-- Workflow before wireframe. If I can't explain how the business runs, I'm not ready to draw it.
-- Fewer screens, clearer ones.
-- A partner, not a pair of hands.
-
-<br>
-
-### 05 — reach me
-
-Bring the messy workflow. You'll get an honest read on what to simplify first.
-
-[abdellahbelkaid.com](https://abdellahbelkaid.com) ·
-[hello@abdellahbelkaid.com](mailto:hello@abdellahbelkaid.com) ·
-[linkedin](https://www.linkedin.com/in/belkaidus) ·
-[x](https://www.twitter.com/belkaiduus) ·
-[instagram](http://www.instagram.com/abdou.coding)
+- 🥇 **Gold, 1st place**: Innovation & Startups Competition, Islamic Development Bank Group (June 2025)
+- 🎤 Presented MyTPE at the **IsDB Group Private Sector Forum**, Algiers (2025)
+- 🌍 Showcased at **Web Summit Qatar**, Doha
+- 🤝 Worked with BDL, Khotwa, Wessini, Djoozoo, Cima and Afes
 
 <br>
 
-<sub>— printed in Algiers. no badges were harmed.</sub>
+## Let's work together
+
+Open to new projects. Send me the messy workflow and I'll tell you what to simplify first.
+
+**[hello@abdellahbelkaid.com](mailto:hello@abdellahbelkaid.com)**

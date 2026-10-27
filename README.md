@@ -1,45 +1,87 @@
-## 🚀 Hi My name is Abdellah Belkaid
+```
+        ┌──────────────────────────────────┐
+        │          BELKAID ABDELLAH        │
+        │     product designer · builder   │
+        │             Algiers, DZ          │
+        ├──────────────────────────────────┤
+        │  TERMINAL ........... GITHUB     │
+        │  OP ................. HELLO      │
+        │                                  │
+        │  messy workflow       ×1         │
+        │  understand it        ✓          │
+        │  break it down        ✓          │
+        │  ship something                  │
+        │  people can use       ✓          │
+        │ ──────────────────────────────── │
+        │  TOTAL            1 good product │
+        │                                  │
+        │  STATUS ........... ACCEPTED     │
+        │  open for new projects           │
+        │                                  │
+        │     ║▌║█║▌│║▌║▌█║║▌║█║▌║▌║       │
+        │   keep this receipt for later    │
+        └──────────────────────────────────┘
+```
 
-I'm a full stack developer, Passionate and skilled JavaScript developer, specializing in React.js and React Native. With experience in creating responsive and user-friendly web and mobile applications, I am dedicated to delivering high-quality code and exceptional user experiences. Constantly learning and striving for excellence in my craft, I am excited about exploring new technologies and collaborating on innovative projects.
+I turn complicated business workflows into products people can actually use.
 
-*   🌍  I'm based in Algiers
-*   🖥️  See my portfolio [here](https://mr-abdellah.com/)
-*   ✉️  You can contact me at [admin@mr-abdellah.com](mailto:admin@mr-abdellah.com)
-*   🚀  I'm currently working as a freelancer
-*   🧠  I'm learning Nodejs
-*   🤝  I'm open to collaborating on Full Stack projects (Web or Mobile)
+Mostly fintech, SaaS and business software — the kind with five roles, twenty rules and
+one process that depends on three others. I figure out how the business really runs,
+cut the complexity down, then design and build the thing until it feels obvious.
 
-## SKILLS
-------------------------
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-</p>
-                    
-## SOCIALS
-------------------------
+<br>
 
-<p align="left">
-<a href="https://www.github.com/mr-abdellah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="http://www.instagram.com/abdou.coding" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/belkaidus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/belkaiduus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-</p>
+### 01 — what I'm on
 
-## <b>MY GITHUB STATS</b>
-------------------------
-<a href="http://www.github.com/mr-abdellah"><img src="https://github-readme-stats.vercel.app/api?username=mr-abdellah&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mr-abdellah's GitHub stats" /></a>
-<a href="http://www.github.com/mr-abdellah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-abdellah&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="http://www.github.com/mr-abdellah"><img src="https://activity-graph.herokuapp.com/graph?username=mr-abdellah&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/mr-abdellah" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-abdellah&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+**[mytpe.app](https://mytpe.app)** — payments for Algerian merchants. QR code, links, terminals, wallet.
+Web, mobile, back office, bank panel. I design it and I write it.
+
+<br>
+
+### 02 — the parcours
+
+| | |
+|---|---|
+| 🥇 **Gold, 1st place** | Innovation & Startups Competition — Islamic Development Bank Group, June 2025 · Financial Solutions & Cybersecurity |
+| 🎤 **IsDB Private Sector Forum** | Algiers, 2025 — presented mytpe.app to the IsDB Group |
+| ✈️ **Web Summit Qatar** | Doha — showing what we build outside Algeria |
+
+Also shipped work for **BDL · Khotwa · Wessini · Djoozoo · Cima · Afes** — banking, education, services.
+
+<br>
+
+### 03 — what I build with
+
+```
+web      next.js · react · typescript · tailwind · shadcn/ui
+mobile   react native · expo · flutter
+back     laravel · filament · mysql/mariadb
+ops      docker · github actions · a VPS I know too well
+design   figma, then the browser
+```
+
+Not a menu. Just what ends up in the repos.
+
+<br>
+
+### 04 — how I work
+
+- Workflow before wireframe. If I can't explain how the business runs, I'm not ready to draw it.
+- Fewer screens, clearer ones.
+- A partner, not a pair of hands.
+
+<br>
+
+### 05 — reach me
+
+Bring the messy workflow. You'll get an honest read on what to simplify first.
+
+[abdellahbelkaid.com](https://abdellahbelkaid.com) ·
+[hello@abdellahbelkaid.com](mailto:hello@abdellahbelkaid.com) ·
+[linkedin](https://www.linkedin.com/in/belkaidus) ·
+[x](https://www.twitter.com/belkaiduus) ·
+[instagram](http://www.instagram.com/abdou.coding)
+
+<br>
+
+<sub>— printed in Algiers. no badges were harmed.</sub>
